@@ -2,6 +2,9 @@ Lien du discord :
 
 https://discord.gg/AuvvU7f4QX
 
+Liens github :
+
+https://github.com/El-lulu/Bot-discord-Collectron.git
 
 
 GUIDE DES COMMANDES 
