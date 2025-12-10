@@ -1,6 +1,6 @@
 Lien du discord :
 
-https://discord.gg/AuvvU7f4QX
+https://discord.gg/4ePkRsMHUZ
 
 Liens github :
 
