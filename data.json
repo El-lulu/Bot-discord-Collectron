@@ -1,0 +1,35 @@
+{
+    "users": {},
+    "shop_stock": {
+        "potion": 10,
+        "katana": 3,
+        "cl\u00e9 egyptienne": 5,
+        "master ball": 1
+    },
+    "items_config": {
+        "potion": {
+            "buy": 50,
+            "sell": 25,
+            "emoji": "\ud83e\uddea",
+            "image": "potion.png"
+        },
+        "katana": {
+            "buy": 1000,
+            "sell": 750,
+            "emoji": "\u2694\ufe0f",
+            "image": "katana.png"
+        },
+        "cl\u00e9 egyptienne": {
+            "buy": 2000,
+            "sell": 1500,
+            "emoji": "\ud83d\udddd\ufe0f",
+            "image": "egypt.png"
+        },
+        "master ball": {
+            "buy": 5000,
+            "sell": 3000,
+            "emoji": "\ud83d\udd34\u26aa",
+            "image": "master.png"
+        }
+    }
+}

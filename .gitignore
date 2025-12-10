@@ -1,0 +1,3 @@
+# ce fichier permet d'ignorer les fichiers sensibles tels que le fichier si on le post sur un dépôt public
+
+.env 
